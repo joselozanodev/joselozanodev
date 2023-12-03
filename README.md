@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, I'm José Lozano 👋
 
-<!--
-**joselozanodev/joselozanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old software developer from Venezuela, passionate about new technologies and web development. I'm always looking to increase my knowledge and improve my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (JS)
+- HTML
+- CSS
+- React
+- Redux
+- Redux Toolkit
+- PostgreSQL
+- SQL
+- Express
+- Node.js
+- Framer Motion
+- Tailwind CSS
+- Responsive Design
+- TypeScript
+
+I've recently started exploring native Android app development with Flutter.
+
+## 🌱 I'm currently learning
+
+- Flutter for native Android development
+
+## 🤝 I'm open to
+
+- Collaborations
+- Team projects
+- Job opportunities
+
+## 📫 How to reach me
+
+- [Email](mailto:joselozano.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lozano-castro)
+
+I'm proactive and have experience working in teams. I'm always excited to learn and grow in the field of software development.
