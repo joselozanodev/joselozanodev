@@ -34,6 +34,6 @@ I've recently started exploring native Android app development with Flutter.
 ## 📫 How to reach me
 
 - [Email](mailto:joselozano.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lozano-castro)
+- [LinkedIn](https://www.linkedin.com/in/joselozanodev)
 
 I'm proactive and have experience working in teams. I'm always excited to learn and grow in the field of software development.
