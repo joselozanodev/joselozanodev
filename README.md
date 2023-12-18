@@ -23,7 +23,7 @@ I've recently started exploring native Android app development with Flutter.
 
 ## 🌱 I'm currently learning
 
-- Flutter for native Android development
+- Next.js
 
 ## 🤝 I'm open to
 
