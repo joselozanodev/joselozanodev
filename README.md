@@ -42,5 +42,6 @@ I've recently started exploring native Android app development with Flutter.
 
 - [Email](mailto:joselozano.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/joselozanodev)
+- [Personal portfolio](joselozanodev.vercel.app)
 
 I'm proactive and have experience working in teams. I'm always excited to learn and grow in the field of software development.
