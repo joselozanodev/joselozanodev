@@ -29,7 +29,8 @@ I've recently started exploring native Android app development with Flutter.
 
 ## 🌱 I'm currently learning
 
-- Next.js
+- Python
+- Django
 
 ## 🤝 I'm open to
 
