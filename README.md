@@ -18,6 +18,9 @@ I'm an 18-year-old software developer from Venezuela, passionate about new techn
 - Tailwind CSS
 - Responsive Design
 - TypeScript
+- Next.js
+- Nest.js
+- Prisma
 
 I've recently started exploring native Android app development with Flutter.
 
