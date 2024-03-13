@@ -21,6 +21,9 @@ I'm an 18-year-old software developer from Venezuela, passionate about new techn
 - Next.js
 - Nest.js
 - Prisma
+- Git
+- Github
+- SCRUM
 
 I've recently started exploring native Android app development with Flutter.
 
