@@ -31,6 +31,8 @@ I've recently started exploring native Android app development with Flutter.
 
 - Python
 - Django
+- Figma
+- ux/ui
 
 ## 🤝 I'm open to
 
