@@ -1,6 +1,6 @@
 # Hello, I'm José Lozano 👋
 
-I'm an 18-year-old software developer from Venezuela, passionate about new technologies and web development. I'm always looking to increase my knowledge and improve my skills.
+Full-Stack developer from Venezuela, passionate about new technologies and web development. I'm always looking to increase my knowledge and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
