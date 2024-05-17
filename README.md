@@ -30,9 +30,6 @@ I've recently started exploring native Android app development with Flutter.
 ## 🌱 I'm currently learning
 
 - Python
-- Django
-- Figma
-- ux/ui
 
 ## 🤝 I'm open to
 
