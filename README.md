@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselozanodev" alt="joselozanodev" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Microservices and UX/UI**
+- 🌱 I’m currently learning **Kotlin and Mobile development**
 
 - 👨‍💻 All of my projects are available at [https://joselozanodev.vercel.app](https://joselozanodev.vercel.app)
 
