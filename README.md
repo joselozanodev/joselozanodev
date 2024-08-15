@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://joselozanodev.vercel.app](https://joselozanodev.vercel.app)
+- 👨‍💻 All of my projects are available at [https://joselozano.dev](https://joselozano.dev)
 
 - 💬 Ask me about **React, Nest and TypeScript**
 
