@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselozanodev" alt="joselozanodev" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://joselozano.dev](https://joselozano.dev)
 
